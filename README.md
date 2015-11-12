@@ -5,6 +5,22 @@ For me, this is an excersize is becoming more comfortable with this tech
 
 This is the first upload.
 
+#How To Use:
+
+Methods:
+
+insert(elem: Int)
+
+remove(elem: Int)
+
+search(elem: Int) : Boolean
+
+close() (This shuts down the actor system in DBST)
+
+You can just use DBST like any other object. (val dbst = new DBST())
+
+There is a sample of me using it in the Test class.
+
 #Next Steps:
 
 - Improve the implementation of the BST itself.
